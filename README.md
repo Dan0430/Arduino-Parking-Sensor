@@ -4,12 +4,12 @@ Using an ulltrasonic sensor to detect distance (in either cm. or in.) and light 
 Includes (and requires) custom made ultrasonic library for Arduino IDE.
 
 Materials:
-Arduino UNO
-HC-SR04 ultrasonic sensor
-220 Ohm Resistor
-LED
+Arduino UNO,\n
+HC-SR04 ultrasonic sensor,
+220 Ohm Resistor,
+LED,
 
 Defaults:
-Cathode LED pin to 2
-Trig pin to 12
-Echo pin to 11
+Cathode LED pin to 2,
+Trig pin to 12,
+Echo pin to 11,
