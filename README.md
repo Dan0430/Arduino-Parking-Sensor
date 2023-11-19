@@ -13,3 +13,5 @@ Defaults:\
 Cathode LED pin to 2\
 Trig pin to 12\
 Echo pin to 11
+
+[![Watch the video](https://img.youtube.com/vi/iuAG0M2Enuk/hqdefault.jpg)](https://youtu.be/iuAG0M2Enuk)
